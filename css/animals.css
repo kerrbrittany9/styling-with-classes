@@ -16,3 +16,19 @@ h2 {
   border-style: dashed;
   border-width: thick;
 }
+@media screen and (max-width: 768px) and (min-width: 650px){
+    body {
+        background-color: black;
+        color: white;
+    }
+  }
+@media screen and (max-width: 600px) {
+      body {
+        background-color: teal;
+      }
+  }
+  @media screen and (max-width: 900px) {
+        .column {
+          width: 230px;
+          float: left;
+          padding: 20px;}
