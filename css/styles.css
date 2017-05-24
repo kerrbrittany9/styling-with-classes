@@ -9,3 +9,11 @@
 .best{
   font-family: cursive;
 }
+
+img{
+  display: block;
+  margin: auto;
+}
+h1{
+   text-align: center;
+}
