@@ -17,5 +17,10 @@ img{
 .sidebar {
   width: 30%;
   float: right;
+  border-style: inset;
+  padding: 3px;
+  margin: 12px;
+  background-color: yellow;
+  display: block;
 
 }
