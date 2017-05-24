@@ -1,4 +1,4 @@
-*{
+body{
   background-color: #66ffff;
   text-align: center;
 }
@@ -18,9 +18,8 @@ img{
   width: 30%;
   float: right;
   border-style: inset;
-  padding: 3px;
+  padding: 10px;
   margin: 12px;
   background-color: yellow;
-  display: block;
 
 }
