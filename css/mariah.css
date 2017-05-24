@@ -1,0 +1,19 @@
+*{
+  background-color: #66ffff;
+  text-align: center;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+
+}
+
+img{
+  float: left;
+  height: 400px;
+  width: 400px;
+}
+.text{
+  width: 400px;
+}
