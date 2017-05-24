@@ -1,0 +1,14 @@
+.intro {
+  text-align: center;
+}
+h2.intro {
+  color: blue;
+  font-family: fantasy;
+}
+p.intro {
+  font-variant: small-caps;
+}
+img.intro {
+  margin: auto;
+  display: block;
+}
