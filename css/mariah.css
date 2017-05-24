@@ -3,17 +3,19 @@
   text-align: center;
 }
 
-.sidebar {
-  width: 30%;
-  float: right;
-
-}
-
 img{
   float: left;
   height: 400px;
   width: 400px;
 }
 .text{
+  float: left;
   width: 400px;
+  margin-left: 50px;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+
 }
