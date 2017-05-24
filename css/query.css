@@ -9,9 +9,9 @@
         background-color: teal;
       }
   }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 900px) {
         .column {
-          width: 300px;
+          width: 230px;
           float: left;
           padding: 20px;
         }
